@@ -1,6 +1,6 @@
 ## UWE Community
 
-Welcome to the community repository for [UWE][]; chat with us at [discord](https://discord.gg/gmhWetv2fE) or follow us on Twitter [@uwe_app](https://twitter.com/uwe_app/).
+Welcome to the community repository for [UWE][]; chat with us at [discord](https://discord.gg/gmhWetv2fE) or follow [@uwe_app](https://twitter.com/uwe_app/ "Twitter") on Twitter.
 
 To suggest an idea or feature please contribute to the [discussion][discussions] and if you find a bug please [raise an issue][issues].
 
